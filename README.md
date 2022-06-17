@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @alishertoshmurodov
+- 👀 I’m interested in Front-end Development
+- 🌱 I’m currently learning version control
+- 💞️ I’m looking to collaborate on web based projects
