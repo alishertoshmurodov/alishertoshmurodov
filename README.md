@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alishertoshmurodov
+- 👋 Hi, I’m Alisher
 - 👀 I’m interested in Front-end Development
-- 🌱 I’m currently learning version control
-- 💞️ I’m looking to collaborate on web based projects
+- 🌱 I’m currently learning React
+- 🤝 I’m looking to collaborate on web based projects
